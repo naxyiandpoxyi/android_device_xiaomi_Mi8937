@@ -10,8 +10,8 @@
     "branch": "lineage-23.2"
   },
   {
-    "repository": "android_device_xiaomi_mithorium-common",
+    "repository": "LineageOS/android_device_xiaomi_mithorium-common",
     "target_path": "device/xiaomi/mithorium-common",
-    "remote": "lineageos"
+    "branch": "lineage-23.2"
   }
 ]
