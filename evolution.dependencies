@@ -1,11 +1,11 @@
 [
   {
-    "repository": "TheMuppets/android_kernel_xiaomi_msm8937",
+    "repository": "LineageOS/android_kernel_xiaomi_msm8937",
     "target_path": "kernel/xiaomi/msm8937",
     "branch": "lineage-23.2"
   },
   {
-    "repository": "LineageOS/proprietary_vendor_xiaomi_Mi8937",
+    "repository": "TheMuppets/proprietary_vendor_xiaomi_Mi8937",
     "target_path": "vendor/xiaomi/Mi8937",
     "branch": "lineage-23.2"
   },
