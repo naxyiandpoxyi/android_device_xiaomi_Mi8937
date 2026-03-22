@@ -1,13 +1,13 @@
 [
   {
-    "repository": "naxyiandpoxyi/android_kernel_xiaomi_msm8937",
+    "repository": "TheMuppets/android_kernel_xiaomi_msm8937",
     "target_path": "kernel/xiaomi/msm8937",
-    "branch": "baklava"
+    "branch": "lineage-23.2"
   },
   {
-    "repository": "naxyiandpoxyi/proprietary_vendor_xiaomi_Mi8937",
+    "repository": "LineageOS/proprietary_vendor_xiaomi_Mi8937",
     "target_path": "vendor/xiaomi/Mi8937",
-    "branch": "baklava"
+    "branch": "lineage-23.2"
   },
   {
     "repository": "android_device_xiaomi_mithorium-common",
