@@ -1,6 +1,17 @@
 [
   {
+    "repository": "naxyiandpoxyi/android_kernel_xiaomi_msm8937",
+    "target_path": "kernel/xiaomi/msm8937",
+    "branch": "baklava"
+  },
+  {
+    "repository": "naxyiandpoxyi/proprietary_vendor_xiaomi_Mi8937",
+    "target_path": "vendor/xiaomi/Mi8937",
+    "branch": "baklava"
+  },
+  {
     "repository": "android_device_xiaomi_mithorium-common",
-    "target_path": "device/xiaomi/mithorium-common"
+    "target_path": "device/xiaomi/mithorium-common",
+    "remote": "lineageos"
   }
 ]
